@@ -21,7 +21,8 @@
 
 
 <!---------------- CONTACT INFO SECTION ---------------->
-## 🌐 Contact Me On
+
+## 🌐 Contact On
 
 - **LinkedIn:** [SuriyaParameswaran](https://www.linkedin.com/in/suriya-parameswaran-69a39a211/)
 - **Email:** <a href="mailto:suriyaoct11@gmail.com">suriyaoct11@gmail.com</a>
